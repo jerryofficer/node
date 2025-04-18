@@ -1,0 +1,27 @@
+[
+    {
+    "name": "iphone 16pro",
+    "brand": "APPLE",
+    "Price": 1.12900,
+    "categorie":"Mobile Phone"
+},
+
+{
+    "name": "iphone 15",
+    "brand": "APPLE",
+    "Price": 57499,
+    "categorie": "Mobile Phone"
+},
+{
+    "name": "iphone 14",
+    "brand": "APPLE",
+    "Price": 54.900,
+    "categorie":"Mobile Phone"
+    },
+    {
+        "name": "iphone 12",
+        "brand": "APPLE",
+        "Price": 34000,
+        "categorie": "Mobile Phone"
+    }
+]
